@@ -1,0 +1,22 @@
+.persons{
+    display: flex;
+}
+.pop{
+    background-color: rgb(219, 217, 217);
+    color: black;
+    border-radius: 5px;
+    box-shadow: 0px 0px 2px 0px rgb(0, 0, 0);
+    margin: auto;
+    margin-top: 20px;
+    padding-top: 5px;
+}
+.skill{
+    display: flex;
+}
+.skill p{
+    background-color: antiquewhite;
+    margin: 4px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    padding: 5px;
+}
